@@ -1,0 +1,3 @@
+%{
+  "easyxml": {:git, "https://github.com/wojtekmach/easyxml.git", "c6eb90478d2222d21760a8011f97bc949fcf5067", []},
+}
